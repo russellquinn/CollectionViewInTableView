@@ -5,6 +5,4067 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>027DF70F-F01F-4846-96A7-03B80F076B25</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>027DF70F-F01F-4846-96A7-03B80F076B25.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529506.37581301</real>
+			<key>timeStoppedRecording</key>
+			<real>564529507.52452695</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>027DF70F-F01F-4846-96A7-03B80F076B25</string>
+		</dict>
+		<key>02D32FFC-3EB7-4D7B-908E-15C754FF99AB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>02D32FFC-3EB7-4D7B-908E-15C754FF99AB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530103.67448997</real>
+			<key>timeStoppedRecording</key>
+			<real>564530104.82579696</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>02D32FFC-3EB7-4D7B-908E-15C754FF99AB</string>
+		</dict>
+		<key>02EC5DA8-3D5E-476E-AD87-41861EC9EC6B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>02EC5DA8-3D5E-476E-AD87-41861EC9EC6B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564524997.86902499</real>
+			<key>timeStoppedRecording</key>
+			<real>564524998.16453803</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>02EC5DA8-3D5E-476E-AD87-41861EC9EC6B</string>
+		</dict>
+		<key>03F9AC6D-E44E-4520-ACDF-8B4714ED569A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>03F9AC6D-E44E-4520-ACDF-8B4714ED569A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564523919.34798896</real>
+			<key>timeStoppedRecording</key>
+			<real>564523920.52231205</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>03F9AC6D-E44E-4520-ACDF-8B4714ED569A</string>
+		</dict>
+		<key>0641E0A0-F1F8-4697-AA05-E2A707D00EC7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0641E0A0-F1F8-4697-AA05-E2A707D00EC7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529644.02403605</real>
+			<key>timeStoppedRecording</key>
+			<real>564529645.14218199</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>0641E0A0-F1F8-4697-AA05-E2A707D00EC7</string>
+		</dict>
+		<key>0971B33C-028C-4839-A7C1-E3F0C871BB04</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0971B33C-028C-4839-A7C1-E3F0C871BB04.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564528663.74069595</real>
+			<key>timeStoppedRecording</key>
+			<real>564528664.882514</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>0971B33C-028C-4839-A7C1-E3F0C871BB04</string>
+		</dict>
+		<key>0B4A25D2-2B9B-4DDF-968A-AA984A9D0C69</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0B4A25D2-2B9B-4DDF-968A-AA984A9D0C69.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525018.51447594</real>
+			<key>timeStoppedRecording</key>
+			<real>564525018.84842002</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>0B4A25D2-2B9B-4DDF-968A-AA984A9D0C69</string>
+		</dict>
+		<key>0CD4650C-5CA3-4D74-985F-C0D56F90AD6E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0CD4650C-5CA3-4D74-985F-C0D56F90AD6E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529418.80633903</real>
+			<key>timeStoppedRecording</key>
+			<real>564529420.01298499</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>0CD4650C-5CA3-4D74-985F-C0D56F90AD6E</string>
+		</dict>
+		<key>0E2E4D8E-214F-40B6-9E2A-DC0006414BD4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0E2E4D8E-214F-40B6-9E2A-DC0006414BD4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564526089.416291</real>
+			<key>timeStoppedRecording</key>
+			<real>564526090.50287199</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>0E2E4D8E-214F-40B6-9E2A-DC0006414BD4</string>
+		</dict>
+		<key>0E56A500-F7E2-4480-BC4E-F173E26A5B48</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0E56A500-F7E2-4480-BC4E-F173E26A5B48.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529489.86844897</real>
+			<key>timeStoppedRecording</key>
+			<real>564529491.07003403</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>0E56A500-F7E2-4480-BC4E-F173E26A5B48</string>
+		</dict>
+		<key>10870030-B7C9-4FAE-B2B7-D675AB0DF7D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>10870030-B7C9-4FAE-B2B7-D675AB0DF7D4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529077.69940495</real>
+			<key>timeStoppedRecording</key>
+			<real>564529078.114326</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>10870030-B7C9-4FAE-B2B7-D675AB0DF7D4</string>
+		</dict>
+		<key>1161535C-923F-485B-A2F1-03A79E24B828</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1161535C-923F-485B-A2F1-03A79E24B828.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564531352.87658703</real>
+			<key>timeStoppedRecording</key>
+			<real>564531354.55340397</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>1161535C-923F-485B-A2F1-03A79E24B828</string>
+		</dict>
+		<key>1185C195-C371-46EA-9627-165C74085094</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1185C195-C371-46EA-9627-165C74085094.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530627.28480899</real>
+			<key>timeStoppedRecording</key>
+			<real>564530628.64240801</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>1185C195-C371-46EA-9627-165C74085094</string>
+		</dict>
+		<key>13061362-B4B4-46DE-95BE-FE2246EBAB1C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>13061362-B4B4-46DE-95BE-FE2246EBAB1C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564527812.36059701</real>
+			<key>timeStoppedRecording</key>
+			<real>564527813.44543505</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>13061362-B4B4-46DE-95BE-FE2246EBAB1C</string>
+		</dict>
+		<key>141A88DD-94BF-41A0-A585-C5DB21186F52</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>141A88DD-94BF-41A0-A585-C5DB21186F52.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525338.98618901</real>
+			<key>timeStoppedRecording</key>
+			<real>564525340.31107295</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>141A88DD-94BF-41A0-A585-C5DB21186F52</string>
+		</dict>
+		<key>1902E470-64EB-4B1F-805A-B0072DF864F9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1902E470-64EB-4B1F-805A-B0072DF864F9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525909.281407</real>
+			<key>timeStoppedRecording</key>
+			<real>564525910.42289805</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>1902E470-64EB-4B1F-805A-B0072DF864F9</string>
+		</dict>
+		<key>191FD834-037F-41F7-BAF7-A4FE7484DDD8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>191FD834-037F-41F7-BAF7-A4FE7484DDD8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530902.56924701</real>
+			<key>timeStoppedRecording</key>
+			<real>564530902.65233803</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>191FD834-037F-41F7-BAF7-A4FE7484DDD8</string>
+		</dict>
+		<key>19C037A0-B6E1-42CA-92C7-51AF38398E0A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>19C037A0-B6E1-42CA-92C7-51AF38398E0A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564526446.56119299</real>
+			<key>timeStoppedRecording</key>
+			<real>564526447.77922297</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>19C037A0-B6E1-42CA-92C7-51AF38398E0A</string>
+		</dict>
+		<key>1ADC5DBB-671F-4DC1-821B-C2BA44143031</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1ADC5DBB-671F-4DC1-821B-C2BA44143031.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564528456.93721199</real>
+			<key>timeStoppedRecording</key>
+			<real>564528457.15122998</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>1ADC5DBB-671F-4DC1-821B-C2BA44143031</string>
+		</dict>
+		<key>1B0F5F8A-28EA-4822-9197-C075E0C7C067</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1B0F5F8A-28EA-4822-9197-C075E0C7C067.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525868.84751999</real>
+			<key>timeStoppedRecording</key>
+			<real>564525869.93487704</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>1B0F5F8A-28EA-4822-9197-C075E0C7C067</string>
+		</dict>
+		<key>1CCE9151-CC0C-41FC-BF50-6E6C72F079D5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1CCE9151-CC0C-41FC-BF50-6E6C72F079D5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525006.25016701</real>
+			<key>timeStoppedRecording</key>
+			<real>564525006.54977</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>1CCE9151-CC0C-41FC-BF50-6E6C72F079D5</string>
+		</dict>
+		<key>1F714BDA-6008-4C48-8DE8-A85E481058F6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1F714BDA-6008-4C48-8DE8-A85E481058F6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530775.36752999</real>
+			<key>timeStoppedRecording</key>
+			<real>564530776.73643005</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>1F714BDA-6008-4C48-8DE8-A85E481058F6</string>
+		</dict>
+		<key>1F8F06AF-E94B-4AA0-ADAC-D151FDF165F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1F8F06AF-E94B-4AA0-ADAC-D151FDF165F4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564524400.71286905</real>
+			<key>timeStoppedRecording</key>
+			<real>564524402.01636803</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>1F8F06AF-E94B-4AA0-ADAC-D151FDF165F4</string>
+		</dict>
+		<key>20A265E6-0087-469F-9603-EB924D81E44B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>20A265E6-0087-469F-9603-EB924D81E44B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525102.609182</real>
+			<key>timeStoppedRecording</key>
+			<real>564525103.71143997</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>20A265E6-0087-469F-9603-EB924D81E44B</string>
+		</dict>
+		<key>21AB0039-BBC7-40C6-91D5-2E2B457A0241</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>21AB0039-BBC7-40C6-91D5-2E2B457A0241.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530200.96570098</real>
+			<key>timeStoppedRecording</key>
+			<real>564530202.13711202</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>21AB0039-BBC7-40C6-91D5-2E2B457A0241</string>
+		</dict>
+		<key>239CBFE1-3EBF-4C51-98B7-0CA003136237</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>239CBFE1-3EBF-4C51-98B7-0CA003136237.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564528407.82614696</real>
+			<key>timeStoppedRecording</key>
+			<real>564528409.19603801</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>239CBFE1-3EBF-4C51-98B7-0CA003136237</string>
+		</dict>
+		<key>24222CAA-2183-45AD-96A2-A8844466C4A4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>24222CAA-2183-45AD-96A2-A8844466C4A4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564526027.58355606</real>
+			<key>timeStoppedRecording</key>
+			<real>564526027.65771103</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>24222CAA-2183-45AD-96A2-A8844466C4A4</string>
+		</dict>
+		<key>28355212-DE76-40A3-81CF-AACF83635280</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>28355212-DE76-40A3-81CF-AACF83635280.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564524426.45113397</real>
+			<key>timeStoppedRecording</key>
+			<real>564524427.58329201</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>28355212-DE76-40A3-81CF-AACF83635280</string>
+		</dict>
+		<key>2A9AA67F-8109-4A0D-8622-D10407566B62</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2A9AA67F-8109-4A0D-8622-D10407566B62.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564526429.64154804</real>
+			<key>timeStoppedRecording</key>
+			<real>564526430.74495602</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>2A9AA67F-8109-4A0D-8622-D10407566B62</string>
+		</dict>
+		<key>2B723739-4202-48AA-827D-3ECBB9A3B95A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2B723739-4202-48AA-827D-3ECBB9A3B95A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525752.11045599</real>
+			<key>timeStoppedRecording</key>
+			<real>564525753.24357605</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>2B723739-4202-48AA-827D-3ECBB9A3B95A</string>
+		</dict>
+		<key>2ECF8310-B993-42F3-90B7-2E92C4615F9B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2ECF8310-B993-42F3-90B7-2E92C4615F9B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530989.43889797</real>
+			<key>timeStoppedRecording</key>
+			<real>564530990.38783097</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>2ECF8310-B993-42F3-90B7-2E92C4615F9B</string>
+		</dict>
+		<key>33D9A04C-90C5-4F3F-873F-5E1DA87A4E99</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>33D9A04C-90C5-4F3F-873F-5E1DA87A4E99.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564528339.30151796</real>
+			<key>timeStoppedRecording</key>
+			<real>564528340.69394004</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>33D9A04C-90C5-4F3F-873F-5E1DA87A4E99</string>
+		</dict>
+		<key>354C883A-F2C2-4199-A542-AEE8F036B020</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>354C883A-F2C2-4199-A542-AEE8F036B020.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530457.01499999</real>
+			<key>timeStoppedRecording</key>
+			<real>564530458.19904304</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>354C883A-F2C2-4199-A542-AEE8F036B020</string>
+		</dict>
+		<key>39AD1998-5FD2-48B3-BB1B-6D0E7C1F0AE9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>39AD1998-5FD2-48B3-BB1B-6D0E7C1F0AE9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564526187.68315005</real>
+			<key>timeStoppedRecording</key>
+			<real>564526188.96591794</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>39AD1998-5FD2-48B3-BB1B-6D0E7C1F0AE9</string>
+		</dict>
+		<key>3B25A0F9-E6D6-4240-B066-D10E0D05A599</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3B25A0F9-E6D6-4240-B066-D10E0D05A599.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525244.41000497</real>
+			<key>timeStoppedRecording</key>
+			<real>564525245.71612501</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>3B25A0F9-E6D6-4240-B066-D10E0D05A599</string>
+		</dict>
+		<key>3F07CA3B-6A96-4DB5-8806-9DD871D6F688</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3F07CA3B-6A96-4DB5-8806-9DD871D6F688.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564524836.71707404</real>
+			<key>timeStoppedRecording</key>
+			<real>564524838.21572495</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>3F07CA3B-6A96-4DB5-8806-9DD871D6F688</string>
+		</dict>
+		<key>3FDE0608-97DB-4AE4-A2B8-38BF2ADA3B3E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3FDE0608-97DB-4AE4-A2B8-38BF2ADA3B3E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564531379.17125404</real>
+			<key>timeStoppedRecording</key>
+			<real>564531380.478652</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>3FDE0608-97DB-4AE4-A2B8-38BF2ADA3B3E</string>
+		</dict>
+		<key>4160F529-F62D-4621-ABC9-951F5663623E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4160F529-F62D-4621-ABC9-951F5663623E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530337.91946697</real>
+			<key>timeStoppedRecording</key>
+			<real>564530338.19026697</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>4160F529-F62D-4621-ABC9-951F5663623E</string>
+		</dict>
+		<key>41F91E63-A72D-49FC-AB32-2BBC4714B6B9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>41F91E63-A72D-49FC-AB32-2BBC4714B6B9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564528546.95649397</real>
+			<key>timeStoppedRecording</key>
+			<real>564528547.38663399</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>41F91E63-A72D-49FC-AB32-2BBC4714B6B9</string>
+		</dict>
+		<key>43B12E4B-FE2E-442B-812A-A237A86EAC33</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>43B12E4B-FE2E-442B-812A-A237A86EAC33.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564531325.75411201</real>
+			<key>timeStoppedRecording</key>
+			<real>564531327.04027605</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>43B12E4B-FE2E-442B-812A-A237A86EAC33</string>
+		</dict>
+		<key>461CEB52-AD4F-4087-A826-193BD0D66B57</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>461CEB52-AD4F-4087-A826-193BD0D66B57.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564527142.45849395</real>
+			<key>timeStoppedRecording</key>
+			<real>564527143.61394799</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>461CEB52-AD4F-4087-A826-193BD0D66B57</string>
+		</dict>
+		<key>4936723F-F963-496F-A6F2-9A4A49B8D45B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4936723F-F963-496F-A6F2-9A4A49B8D45B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564524914.16380405</real>
+			<key>timeStoppedRecording</key>
+			<real>564524914.24345696</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>4936723F-F963-496F-A6F2-9A4A49B8D45B</string>
+		</dict>
+		<key>4A2B3469-464F-4FF9-8E0F-A5BDC44161E9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4A2B3469-464F-4FF9-8E0F-A5BDC44161E9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525927.674119</real>
+			<key>timeStoppedRecording</key>
+			<real>564525928.78357804</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>4A2B3469-464F-4FF9-8E0F-A5BDC44161E9</string>
+		</dict>
+		<key>4BA8BED2-C255-4D46-AD6C-8D129CC807DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4BA8BED2-C255-4D46-AD6C-8D129CC807DB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529130.88388705</real>
+			<key>timeStoppedRecording</key>
+			<real>564529132.63959396</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>4BA8BED2-C255-4D46-AD6C-8D129CC807DB</string>
+		</dict>
+		<key>4CC778F7-C79F-46DF-A90E-CCFF66565E77</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4CC778F7-C79F-46DF-A90E-CCFF66565E77.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564524867.333269</real>
+			<key>timeStoppedRecording</key>
+			<real>564524867.60937595</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>4CC778F7-C79F-46DF-A90E-CCFF66565E77</string>
+		</dict>
+		<key>4E13BF1F-3C56-4D4D-9B12-4B2F1141DEEB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4E13BF1F-3C56-4D4D-9B12-4B2F1141DEEB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564526406.62786496</real>
+			<key>timeStoppedRecording</key>
+			<real>564526407.83442605</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>4E13BF1F-3C56-4D4D-9B12-4B2F1141DEEB</string>
+		</dict>
+		<key>4F7B2AAB-31D5-40EB-9CD4-39D097A5D9A5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4F7B2AAB-31D5-40EB-9CD4-39D097A5D9A5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529375.34787703</real>
+			<key>timeStoppedRecording</key>
+			<real>564529376.53262401</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>4F7B2AAB-31D5-40EB-9CD4-39D097A5D9A5</string>
+		</dict>
+		<key>50066F7D-B5ED-425D-8AA5-689D6D864F63</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>50066F7D-B5ED-425D-8AA5-689D6D864F63.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525254.49289298</real>
+			<key>timeStoppedRecording</key>
+			<real>564525254.560449</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>50066F7D-B5ED-425D-8AA5-689D6D864F63</string>
+		</dict>
+		<key>522B3BC8-E58B-4ECD-B264-8D3E9F2B283E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>522B3BC8-E58B-4ECD-B264-8D3E9F2B283E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530079.60526204</real>
+			<key>timeStoppedRecording</key>
+			<real>564530080.80822396</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>522B3BC8-E58B-4ECD-B264-8D3E9F2B283E</string>
+		</dict>
+		<key>55194EFC-0455-4AE0-A1DF-226068C1CB88</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55194EFC-0455-4AE0-A1DF-226068C1CB88.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525041.86908698</real>
+			<key>timeStoppedRecording</key>
+			<real>564525041.947474</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>55194EFC-0455-4AE0-A1DF-226068C1CB88</string>
+		</dict>
+		<key>58030174-9504-4905-B9D2-DC977ACD4AEB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>58030174-9504-4905-B9D2-DC977ACD4AEB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564524476.89615202</real>
+			<key>timeStoppedRecording</key>
+			<real>564524478.03527701</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>58030174-9504-4905-B9D2-DC977ACD4AEB</string>
+		</dict>
+		<key>5A0E97AB-FE45-44FD-936B-21B398DCCB5B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A0E97AB-FE45-44FD-936B-21B398DCCB5B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564531413.907583</real>
+			<key>timeStoppedRecording</key>
+			<real>564531415.25038195</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>5A0E97AB-FE45-44FD-936B-21B398DCCB5B</string>
+		</dict>
+		<key>5BFB5768-215C-4034-9D61-A09B7A2CE961</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5BFB5768-215C-4034-9D61-A09B7A2CE961.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564524324.91234899</real>
+			<key>timeStoppedRecording</key>
+			<real>564524326.25006604</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>5BFB5768-215C-4034-9D61-A09B7A2CE961</string>
+		</dict>
+		<key>5C303DFC-E645-4CC6-9324-C248DA7E76E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5C303DFC-E645-4CC6-9324-C248DA7E76E0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564524890.77848399</real>
+			<key>timeStoppedRecording</key>
+			<real>564524891.05237401</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>5C303DFC-E645-4CC6-9324-C248DA7E76E0</string>
+		</dict>
+		<key>5C423ED4-1E7D-4BBB-B43B-CABE5DD975E5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5C423ED4-1E7D-4BBB-B43B-CABE5DD975E5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525145.788643</real>
+			<key>timeStoppedRecording</key>
+			<real>564525146.17571497</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>5C423ED4-1E7D-4BBB-B43B-CABE5DD975E5</string>
+		</dict>
+		<key>5D386943-21A3-43CE-A5CF-830AD4DB02BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5D386943-21A3-43CE-A5CF-830AD4DB02BB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529544.76762605</real>
+			<key>timeStoppedRecording</key>
+			<real>564529545.88215995</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>5D386943-21A3-43CE-A5CF-830AD4DB02BB</string>
+		</dict>
+		<key>60582BEA-1370-4D35-BA4E-C7CA17092549</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>60582BEA-1370-4D35-BA4E-C7CA17092549.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564528755.57017398</real>
+			<key>timeStoppedRecording</key>
+			<real>564528756.70907795</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>60582BEA-1370-4D35-BA4E-C7CA17092549</string>
+		</dict>
+		<key>6489A6C5-E56E-47E4-AA59-218EBE14854E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6489A6C5-E56E-47E4-AA59-218EBE14854E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529435.81050098</real>
+			<key>timeStoppedRecording</key>
+			<real>564529437.03652799</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>6489A6C5-E56E-47E4-AA59-218EBE14854E</string>
+		</dict>
+		<key>65F1DC77-2785-4E08-9C3B-CA43AF63056E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>65F1DC77-2785-4E08-9C3B-CA43AF63056E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564528294.59236598</real>
+			<key>timeStoppedRecording</key>
+			<real>564528295.06211305</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>65F1DC77-2785-4E08-9C3B-CA43AF63056E</string>
+		</dict>
+		<key>66DBC708-20E0-4FCD-9E64-D6EB93D949E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>66DBC708-20E0-4FCD-9E64-D6EB93D949E0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564524415.09608603</real>
+			<key>timeStoppedRecording</key>
+			<real>564524416.27030396</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>66DBC708-20E0-4FCD-9E64-D6EB93D949E0</string>
+		</dict>
+		<key>67A4C7A6-C2E3-4F4B-A731-34A73E8EA11D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67A4C7A6-C2E3-4F4B-A731-34A73E8EA11D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564523797.76727796</real>
+			<key>timeStoppedRecording</key>
+			<real>564523797.81206703</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>67A4C7A6-C2E3-4F4B-A731-34A73E8EA11D</string>
+		</dict>
+		<key>687EE870-6562-4C69-BC44-31DBFF720A88</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>687EE870-6562-4C69-BC44-31DBFF720A88.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525850.016945</real>
+			<key>timeStoppedRecording</key>
+			<real>564525851.16859198</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>687EE870-6562-4C69-BC44-31DBFF720A88</string>
+		</dict>
+		<key>6D55C9C0-A620-41A3-8B79-90B932C4B30F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6D55C9C0-A620-41A3-8B79-90B932C4B30F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525368.27030301</real>
+			<key>timeStoppedRecording</key>
+			<real>564525368.34659696</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>6D55C9C0-A620-41A3-8B79-90B932C4B30F</string>
+		</dict>
+		<key>6EDF79F6-751F-4911-9F33-AC6D76D625A4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6EDF79F6-751F-4911-9F33-AC6D76D625A4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564531073.89168501</real>
+			<key>timeStoppedRecording</key>
+			<real>564531075.49273205</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>6EDF79F6-751F-4911-9F33-AC6D76D625A4</string>
+		</dict>
+		<key>6F1DC5F6-5423-4171-8DF4-B9FBD41600BA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6F1DC5F6-5423-4171-8DF4-B9FBD41600BA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525037.73588896</real>
+			<key>timeStoppedRecording</key>
+			<real>564525038.93099999</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>6F1DC5F6-5423-4171-8DF4-B9FBD41600BA</string>
+		</dict>
+		<key>6FB08E87-6EF7-403E-BC62-9A5517F71896</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6FB08E87-6EF7-403E-BC62-9A5517F71896.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529877.99876702</real>
+			<key>timeStoppedRecording</key>
+			<real>564529878.20049703</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>6FB08E87-6EF7-403E-BC62-9A5517F71896</string>
+		</dict>
+		<key>706A10B7-66A1-445A-A514-F10CFBA6C4B6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>706A10B7-66A1-445A-A514-F10CFBA6C4B6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564526796.238325</real>
+			<key>timeStoppedRecording</key>
+			<real>564526796.548208</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>706A10B7-66A1-445A-A514-F10CFBA6C4B6</string>
+		</dict>
+		<key>74C4DAB1-76C6-4ED9-9548-32F4E9C21410</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>74C4DAB1-76C6-4ED9-9548-32F4E9C21410.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564526168.06580305</real>
+			<key>timeStoppedRecording</key>
+			<real>564526169.21331</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>74C4DAB1-76C6-4ED9-9548-32F4E9C21410</string>
+		</dict>
+		<key>77ACE1CF-A759-4127-ADBC-D701BE06F10D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>77ACE1CF-A759-4127-ADBC-D701BE06F10D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529246.55633605</real>
+			<key>timeStoppedRecording</key>
+			<real>564529247.71803296</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>77ACE1CF-A759-4127-ADBC-D701BE06F10D</string>
+		</dict>
+		<key>7803C595-96C2-4381-B0C1-C140AE16E1B0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7803C595-96C2-4381-B0C1-C140AE16E1B0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529270.25199604</real>
+			<key>timeStoppedRecording</key>
+			<real>564529270.32896996</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>7803C595-96C2-4381-B0C1-C140AE16E1B0</string>
+		</dict>
+		<key>7825EF6E-D058-4B6E-8292-3D872657E372</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7825EF6E-D058-4B6E-8292-3D872657E372.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564531366.79151201</real>
+			<key>timeStoppedRecording</key>
+			<real>564531368.06430197</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>7825EF6E-D058-4B6E-8292-3D872657E372</string>
+		</dict>
+		<key>7FD03C50-E985-47FA-845F-D0623124BDBA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7FD03C50-E985-47FA-845F-D0623124BDBA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530093.63140798</real>
+			<key>timeStoppedRecording</key>
+			<real>564530094.80255699</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>7FD03C50-E985-47FA-845F-D0623124BDBA</string>
+		</dict>
+		<key>7FDE1AEC-7089-48CC-956E-0ED935651CE1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7FDE1AEC-7089-48CC-956E-0ED935651CE1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530057.85431695</real>
+			<key>timeStoppedRecording</key>
+			<real>564530059.23428297</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>7FDE1AEC-7089-48CC-956E-0ED935651CE1</string>
+		</dict>
+		<key>815C4119-CC4E-4F19-A1C1-D29E08D32AFB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>815C4119-CC4E-4F19-A1C1-D29E08D32AFB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530344.95857596</real>
+			<key>timeStoppedRecording</key>
+			<real>564530346.128304</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>815C4119-CC4E-4F19-A1C1-D29E08D32AFB</string>
+		</dict>
+		<key>818FD5C6-6DBF-4092-AC9E-727FBAAB7C16</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>818FD5C6-6DBF-4092-AC9E-727FBAAB7C16.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530528.88340998</real>
+			<key>timeStoppedRecording</key>
+			<real>564530530.305004</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>818FD5C6-6DBF-4092-AC9E-727FBAAB7C16</string>
+		</dict>
+		<key>81B83D57-16BB-43C3-859D-C3414049B2CB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>81B83D57-16BB-43C3-859D-C3414049B2CB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529114.48066998</real>
+			<key>timeStoppedRecording</key>
+			<real>564529114.87873697</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>81B83D57-16BB-43C3-859D-C3414049B2CB</string>
+		</dict>
+		<key>825EE63A-7844-40BB-9EE9-59592BA91D4F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>825EE63A-7844-40BB-9EE9-59592BA91D4F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530356.59300697</real>
+			<key>timeStoppedRecording</key>
+			<real>564530357.75229204</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>825EE63A-7844-40BB-9EE9-59592BA91D4F</string>
+		</dict>
+		<key>82CDFA5E-B299-4325-A81D-6E6A11E9EDE5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>82CDFA5E-B299-4325-A81D-6E6A11E9EDE5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530706.68129206</real>
+			<key>timeStoppedRecording</key>
+			<real>564530708.05357695</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>82CDFA5E-B299-4325-A81D-6E6A11E9EDE5</string>
+		</dict>
+		<key>8594D1C1-4FC5-472F-9478-16BBAF459537</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8594D1C1-4FC5-472F-9478-16BBAF459537.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525062.86813104</real>
+			<key>timeStoppedRecording</key>
+			<real>564525064.00522399</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>8594D1C1-4FC5-472F-9478-16BBAF459537</string>
+		</dict>
+		<key>8667FBF1-647F-4DFB-B5EF-21276039B7CD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8667FBF1-647F-4DFB-B5EF-21276039B7CD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564524846.25441003</real>
+			<key>timeStoppedRecording</key>
+			<real>564524847.50100398</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>8667FBF1-647F-4DFB-B5EF-21276039B7CD</string>
+		</dict>
+		<key>8760A96D-AB4B-4E18-9C61-2661DA38F12B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8760A96D-AB4B-4E18-9C61-2661DA38F12B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525485.84909701</real>
+			<key>timeStoppedRecording</key>
+			<real>564525487.18949294</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>8760A96D-AB4B-4E18-9C61-2661DA38F12B</string>
+		</dict>
+		<key>8774D31D-0C17-4E89-887F-A65DF501E78A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8774D31D-0C17-4E89-887F-A65DF501E78A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564524991.63908505</real>
+			<key>timeStoppedRecording</key>
+			<real>564524991.86840105</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>8774D31D-0C17-4E89-887F-A65DF501E78A</string>
+		</dict>
+		<key>8905CFB9-DA05-4577-9708-83D97601BACC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8905CFB9-DA05-4577-9708-83D97601BACC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529019.54570103</real>
+			<key>timeStoppedRecording</key>
+			<real>564529020.78719795</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>8905CFB9-DA05-4577-9708-83D97601BACC</string>
+		</dict>
+		<key>8DC2D824-268B-4BA6-85DF-85C670D30BBF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8DC2D824-268B-4BA6-85DF-85C670D30BBF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525143.16693997</real>
+			<key>timeStoppedRecording</key>
+			<real>564525144.43319094</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>8DC2D824-268B-4BA6-85DF-85C670D30BBF</string>
+		</dict>
+		<key>8E5EDE52-AEDC-4B22-94B2-2917D895FC51</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8E5EDE52-AEDC-4B22-94B2-2917D895FC51.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564523654.01790595</real>
+			<key>timeStoppedRecording</key>
+			<real>564523654.10410297</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>8E5EDE52-AEDC-4B22-94B2-2917D895FC51</string>
+		</dict>
+		<key>93227772-CC4F-4E0C-867D-3E357156EB23</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>93227772-CC4F-4E0C-867D-3E357156EB23.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529449.70225799</real>
+			<key>timeStoppedRecording</key>
+			<real>564529450.95074904</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>93227772-CC4F-4E0C-867D-3E357156EB23</string>
+		</dict>
+		<key>95CBEF26-5A24-47C7-94A6-B8AD203A105A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>95CBEF26-5A24-47C7-94A6-B8AD203A105A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530948.73594904</real>
+			<key>timeStoppedRecording</key>
+			<real>564530950.09856606</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>95CBEF26-5A24-47C7-94A6-B8AD203A105A</string>
+		</dict>
+		<key>964FC501-05FE-494F-BBFE-8B4CB3B78AED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>964FC501-05FE-494F-BBFE-8B4CB3B78AED.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564526806.19448495</real>
+			<key>timeStoppedRecording</key>
+			<real>564526807.36967397</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>964FC501-05FE-494F-BBFE-8B4CB3B78AED</string>
+		</dict>
+		<key>9CF745F9-D6D3-4C4C-A1D8-11813EEFADF7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9CF745F9-D6D3-4C4C-A1D8-11813EEFADF7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529134.97708905</real>
+			<key>timeStoppedRecording</key>
+			<real>564529136.15206504</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>9CF745F9-D6D3-4C4C-A1D8-11813EEFADF7</string>
+		</dict>
+		<key>9D1A54BB-8FE5-4252-AF57-F802F706E1C5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9D1A54BB-8FE5-4252-AF57-F802F706E1C5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564528636.47996104</real>
+			<key>timeStoppedRecording</key>
+			<real>564528637.62161696</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>9D1A54BB-8FE5-4252-AF57-F802F706E1C5</string>
+		</dict>
+		<key>9D435B31-E634-4AEC-8F05-17C8D88C59BA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9D435B31-E634-4AEC-8F05-17C8D88C59BA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530369.69391298</real>
+			<key>timeStoppedRecording</key>
+			<real>564530369.80891204</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>9D435B31-E634-4AEC-8F05-17C8D88C59BA</string>
+		</dict>
+		<key>9E85489B-401F-4010-A054-77429E85F6F7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E85489B-401F-4010-A054-77429E85F6F7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525636.105726</real>
+			<key>timeStoppedRecording</key>
+			<real>564525637.474424</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>9E85489B-401F-4010-A054-77429E85F6F7</string>
+		</dict>
+		<key>9EE7795F-BCAF-4EB4-B637-11530E27484F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9EE7795F-BCAF-4EB4-B637-11530E27484F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530888.06642199</real>
+			<key>timeStoppedRecording</key>
+			<real>564530889.26760805</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>9EE7795F-BCAF-4EB4-B637-11530E27484F</string>
+		</dict>
+		<key>A22DE245-074C-45F8-BBEC-4DF78ED5D131</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A22DE245-074C-45F8-BBEC-4DF78ED5D131.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529920.62687194</real>
+			<key>timeStoppedRecording</key>
+			<real>564529920.85415006</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>A22DE245-074C-45F8-BBEC-4DF78ED5D131</string>
+		</dict>
+		<key>A9D76FE7-878E-4013-8EF6-B0432B0199D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A9D76FE7-878E-4013-8EF6-B0432B0199D7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525790.31891096</real>
+			<key>timeStoppedRecording</key>
+			<real>564525791.48870099</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>A9D76FE7-878E-4013-8EF6-B0432B0199D7</string>
+		</dict>
+		<key>AAFE0C37-FEA3-4DC0-90D4-3AE769632A5C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AAFE0C37-FEA3-4DC0-90D4-3AE769632A5C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564528314.13263905</real>
+			<key>timeStoppedRecording</key>
+			<real>564528314.21005797</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>AAFE0C37-FEA3-4DC0-90D4-3AE769632A5C</string>
+		</dict>
+		<key>AB68CD9E-A752-4AEF-B35C-70E627AB8EFD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AB68CD9E-A752-4AEF-B35C-70E627AB8EFD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564526009.769328</real>
+			<key>timeStoppedRecording</key>
+			<real>564526011.04830503</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>AB68CD9E-A752-4AEF-B35C-70E627AB8EFD</string>
+		</dict>
+		<key>AC95EE08-7E81-4318-B16D-CD90FECE463B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AC95EE08-7E81-4318-B16D-CD90FECE463B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564526077.00510097</real>
+			<key>timeStoppedRecording</key>
+			<real>564526078.39151597</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>AC95EE08-7E81-4318-B16D-CD90FECE463B</string>
+		</dict>
+		<key>AF644A59-E130-41BD-94A5-818FF7D02FDC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AF644A59-E130-41BD-94A5-818FF7D02FDC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525887.44540095</real>
+			<key>timeStoppedRecording</key>
+			<real>564525888.55509806</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>AF644A59-E130-41BD-94A5-818FF7D02FDC</string>
+		</dict>
+		<key>B28F4E8F-7C6A-434B-B21F-2758802601F0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B28F4E8F-7C6A-434B-B21F-2758802601F0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529908.24740303</real>
+			<key>timeStoppedRecording</key>
+			<real>564529908.48015797</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>B28F4E8F-7C6A-434B-B21F-2758802601F0</string>
+		</dict>
+		<key>B4C41A14-8BCE-493E-BFFC-CCFE35253F3B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B4C41A14-8BCE-493E-BFFC-CCFE35253F3B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530347.41055906</real>
+			<key>timeStoppedRecording</key>
+			<real>564530347.83564103</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>B4C41A14-8BCE-493E-BFFC-CCFE35253F3B</string>
+		</dict>
+		<key>B5472B68-ECE0-4FFB-A6FB-258ED9A7F1D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B5472B68-ECE0-4FFB-A6FB-258ED9A7F1D4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529027.138991</real>
+			<key>timeStoppedRecording</key>
+			<real>564529027.21535504</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>B5472B68-ECE0-4FFB-A6FB-258ED9A7F1D4</string>
+		</dict>
+		<key>B76517D4-526B-4F08-8D79-EF421367933B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B76517D4-526B-4F08-8D79-EF421367933B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530876.10310304</real>
+			<key>timeStoppedRecording</key>
+			<real>564530876.48071504</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>B76517D4-526B-4F08-8D79-EF421367933B</string>
+		</dict>
+		<key>B7FF2F0F-4727-4BFC-96CB-0D79082371FD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B7FF2F0F-4727-4BFC-96CB-0D79082371FD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564528289.50274801</real>
+			<key>timeStoppedRecording</key>
+			<real>564528290.64002395</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>B7FF2F0F-4727-4BFC-96CB-0D79082371FD</string>
+		</dict>
+		<key>B8192BBD-7810-4D77-8434-EC1E35730496</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B8192BBD-7810-4D77-8434-EC1E35730496.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564528279.61490297</real>
+			<key>timeStoppedRecording</key>
+			<real>564528279.90048206</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>B8192BBD-7810-4D77-8434-EC1E35730496</string>
+		</dict>
+		<key>B8E2ECFD-1727-4A79-9324-5F47AFB04701</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B8E2ECFD-1727-4A79-9324-5F47AFB04701.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564527815.14892101</real>
+			<key>timeStoppedRecording</key>
+			<real>564527815.24039102</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>B8E2ECFD-1727-4A79-9324-5F47AFB04701</string>
+		</dict>
+		<key>BCCECDB7-C0E0-4299-BE38-2B19FB849DB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BCCECDB7-C0E0-4299-BE38-2B19FB849DB3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564531283.28332901</real>
+			<key>timeStoppedRecording</key>
+			<real>564531284.65092897</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>BCCECDB7-C0E0-4299-BE38-2B19FB849DB3</string>
+		</dict>
+		<key>C2A0955D-ABD3-47D8-A18E-1FE8B061552C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C2A0955D-ABD3-47D8-A18E-1FE8B061552C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525458.18905699</real>
+			<key>timeStoppedRecording</key>
+			<real>564525459.35752404</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>C2A0955D-ABD3-47D8-A18E-1FE8B061552C</string>
+		</dict>
+		<key>C327BF99-A7D4-4B44-A7ED-C5CF5F9AC9DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C327BF99-A7D4-4B44-A7ED-C5CF5F9AC9DC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564523914.09426403</real>
+			<key>timeStoppedRecording</key>
+			<real>564523915.55167794</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>C327BF99-A7D4-4B44-A7ED-C5CF5F9AC9DC</string>
+		</dict>
+		<key>C52C626C-F0E4-420D-A3BD-68B80EAB5E0A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C52C626C-F0E4-420D-A3BD-68B80EAB5E0A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530209.23853803</real>
+			<key>timeStoppedRecording</key>
+			<real>564530209.37247002</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>C52C626C-F0E4-420D-A3BD-68B80EAB5E0A</string>
+		</dict>
+		<key>CE28F86C-C233-46CD-8D6F-98782B1A1532</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CE28F86C-C233-46CD-8D6F-98782B1A1532.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525679.54354703</real>
+			<key>timeStoppedRecording</key>
+			<real>564525679.61487305</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>CE28F86C-C233-46CD-8D6F-98782B1A1532</string>
+		</dict>
+		<key>CF27018F-49BA-4673-8C19-28C4219D0922</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF27018F-49BA-4673-8C19-28C4219D0922.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564528544.40255105</real>
+			<key>timeStoppedRecording</key>
+			<real>564528545.50239694</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>CF27018F-49BA-4673-8C19-28C4219D0922</string>
+		</dict>
+		<key>D269A757-88DB-4296-AB6B-B7F7C060ACA4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D269A757-88DB-4296-AB6B-B7F7C060ACA4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530886.43660295</real>
+			<key>timeStoppedRecording</key>
+			<real>564530886.727108</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>D269A757-88DB-4296-AB6B-B7F7C060ACA4</string>
+		</dict>
+		<key>D482415A-18C9-4D85-A16D-2206E7189338</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D482415A-18C9-4D85-A16D-2206E7189338.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529158.24748397</real>
+			<key>timeStoppedRecording</key>
+			<real>564529159.28364301</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>D482415A-18C9-4D85-A16D-2206E7189338</string>
+		</dict>
+		<key>D6029117-1B9C-4F33-BD5D-A5247A45B6E9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D6029117-1B9C-4F33-BD5D-A5247A45B6E9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529956.813205</real>
+			<key>timeStoppedRecording</key>
+			<real>564529957.89753497</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>D6029117-1B9C-4F33-BD5D-A5247A45B6E9</string>
+		</dict>
+		<key>D6B92FCB-F17C-43C1-85E3-297DFD5A452E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D6B92FCB-F17C-43C1-85E3-297DFD5A452E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564523854.83043003</real>
+			<key>timeStoppedRecording</key>
+			<real>564523854.90782702</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>D6B92FCB-F17C-43C1-85E3-297DFD5A452E</string>
+		</dict>
+		<key>D7226ADC-1118-4237-A697-794387928E2F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D7226ADC-1118-4237-A697-794387928E2F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529962.25302601</real>
+			<key>timeStoppedRecording</key>
+			<real>564529962.65785897</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>D7226ADC-1118-4237-A697-794387928E2F</string>
+		</dict>
+		<key>D7713A2D-4BF0-44A8-96FC-6878616DEE96</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D7713A2D-4BF0-44A8-96FC-6878616DEE96.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564524897.58304501</real>
+			<key>timeStoppedRecording</key>
+			<real>564524897.85603297</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>D7713A2D-4BF0-44A8-96FC-6878616DEE96</string>
+		</dict>
+		<key>D7FF5DDC-6EDD-4D4D-BE33-491E52318E00</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D7FF5DDC-6EDD-4D4D-BE33-491E52318E00.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525987.27733696</real>
+			<key>timeStoppedRecording</key>
+			<real>564525988.41043794</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>D7FF5DDC-6EDD-4D4D-BE33-491E52318E00</string>
+		</dict>
+		<key>D992D812-08D5-40DE-9EF6-C06F9133F725</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D992D812-08D5-40DE-9EF6-C06F9133F725.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525825.01872694</real>
+			<key>timeStoppedRecording</key>
+			<real>564525826.36509299</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>D992D812-08D5-40DE-9EF6-C06F9133F725</string>
+		</dict>
+		<key>DF9E1D15-32E4-48C1-8ABE-D80403A84EAC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DF9E1D15-32E4-48C1-8ABE-D80403A84EAC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530716.58987296</real>
+			<key>timeStoppedRecording</key>
+			<real>564530716.71531105</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>DF9E1D15-32E4-48C1-8ABE-D80403A84EAC</string>
+		</dict>
+		<key>E0B6F84B-5E6B-4F56-8C8A-C00AC4160906</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E0B6F84B-5E6B-4F56-8C8A-C00AC4160906.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530968.29138005</real>
+			<key>timeStoppedRecording</key>
+			<real>564530970.01222301</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>E0B6F84B-5E6B-4F56-8C8A-C00AC4160906</string>
+		</dict>
+		<key>E2B9A8DC-AFED-4523-B5EB-5DD381EA64E9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E2B9A8DC-AFED-4523-B5EB-5DD381EA64E9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529654.13462603</real>
+			<key>timeStoppedRecording</key>
+			<real>564529654.59409797</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>E2B9A8DC-AFED-4523-B5EB-5DD381EA64E9</string>
+		</dict>
+		<key>E7EB9285-9613-4FE4-9BCB-743B7E5D3CA0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E7EB9285-9613-4FE4-9BCB-743B7E5D3CA0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530553.53417003</real>
+			<key>timeStoppedRecording</key>
+			<real>564530554.64242101</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>E7EB9285-9613-4FE4-9BCB-743B7E5D3CA0</string>
+		</dict>
+		<key>E8400078-7CF3-4EDF-B51C-ABAEA7F80B10</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E8400078-7CF3-4EDF-B51C-ABAEA7F80B10.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564523838.10984004</real>
+			<key>timeStoppedRecording</key>
+			<real>564523838.15615702</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>E8400078-7CF3-4EDF-B51C-ABAEA7F80B10</string>
+		</dict>
+		<key>E8B18822-3F57-4295-AF5D-DE845D3BFA61</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E8B18822-3F57-4295-AF5D-DE845D3BFA61.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564524448.88116801</real>
+			<key>timeStoppedRecording</key>
+			<real>564524450.02914298</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>E8B18822-3F57-4295-AF5D-DE845D3BFA61</string>
+		</dict>
+		<key>E9ABFC13-A00E-4E2F-8429-4CC2D7FE8707</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E9ABFC13-A00E-4E2F-8429-4CC2D7FE8707.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564528706.79940796</real>
+			<key>timeStoppedRecording</key>
+			<real>564528708.07325697</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>E9ABFC13-A00E-4E2F-8429-4CC2D7FE8707</string>
+		</dict>
+		<key>EA699AA7-7D41-434F-AB17-B1A35CA2A0A7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EA699AA7-7D41-434F-AB17-B1A35CA2A0A7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564531294.01153803</real>
+			<key>timeStoppedRecording</key>
+			<real>564531295.36152196</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>EA699AA7-7D41-434F-AB17-B1A35CA2A0A7</string>
+		</dict>
+		<key>EAA13B8F-0827-4D86-89F9-E6B620363A47</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EAA13B8F-0827-4D86-89F9-E6B620363A47.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564527643.28079796</real>
+			<key>timeStoppedRecording</key>
+			<real>564527643.52299702</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>EAA13B8F-0827-4D86-89F9-E6B620363A47</string>
+		</dict>
+		<key>ECA7B9CC-1821-4DD7-BE59-29570C5E1004</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ECA7B9CC-1821-4DD7-BE59-29570C5E1004.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564524908.35408902</real>
+			<key>timeStoppedRecording</key>
+			<real>564524909.52475905</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>ECA7B9CC-1821-4DD7-BE59-29570C5E1004</string>
+		</dict>
+		<key>ED3C3152-03FF-45EA-ADBF-67C02A6AA1B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ED3C3152-03FF-45EA-ADBF-67C02A6AA1B3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564523843.81641495</real>
+			<key>timeStoppedRecording</key>
+			<real>564523851.54964304</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>ED3C3152-03FF-45EA-ADBF-67C02A6AA1B3</string>
+		</dict>
+		<key>F1ADF4D1-432B-495A-A63A-BBE2160C5A79</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1ADF4D1-432B-495A-A63A-BBE2160C5A79.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564527385.67939496</real>
+			<key>timeStoppedRecording</key>
+			<real>564527387.03405201</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>F1ADF4D1-432B-495A-A63A-BBE2160C5A79</string>
+		</dict>
+		<key>F2ADA152-74EA-474C-B85F-A7D0A68A2AAB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F2ADA152-74EA-474C-B85F-A7D0A68A2AAB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564529196.970047</real>
+			<key>timeStoppedRecording</key>
+			<real>564529197.06319594</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>F2ADA152-74EA-474C-B85F-A7D0A68A2AAB</string>
+		</dict>
+		<key>F36B7BF9-4E7C-4A4E-BBB4-1BB300F0204F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F36B7BF9-4E7C-4A4E-BBB4-1BB300F0204F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564526222.27390301</real>
+			<key>timeStoppedRecording</key>
+			<real>564526223.61192703</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>F36B7BF9-4E7C-4A4E-BBB4-1BB300F0204F</string>
+		</dict>
+		<key>F5505368-F024-47D8-9B8C-FBC3FA9C0A13</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F5505368-F024-47D8-9B8C-FBC3FA9C0A13.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530427.34539104</real>
+			<key>timeStoppedRecording</key>
+			<real>564530427.75020194</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>F5505368-F024-47D8-9B8C-FBC3FA9C0A13</string>
+		</dict>
+		<key>F7AB1DB2-F2DD-4F02-B45A-20A421EB1690</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F7AB1DB2-F2DD-4F02-B45A-20A421EB1690.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525408.538975</real>
+			<key>timeStoppedRecording</key>
+			<real>564525409.64496303</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>F7AB1DB2-F2DD-4F02-B45A-20A421EB1690</string>
+		</dict>
+		<key>FADF62AD-9182-4CF7-97CA-9CCFC7BAEF7E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FADF62AD-9182-4CF7-97CA-9CCFC7BAEF7E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564531418.596591</real>
+			<key>timeStoppedRecording</key>
+			<real>564531419.576684</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>FADF62AD-9182-4CF7-97CA-9CCFC7BAEF7E</string>
+		</dict>
+		<key>FB987289-FC2D-4277-B838-46AAC73071C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FB987289-FC2D-4277-B838-46AAC73071C1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564525899.39543796</real>
+			<key>timeStoppedRecording</key>
+			<real>564525900.46146595</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>FB987289-FC2D-4277-B838-46AAC73071C1</string>
+		</dict>
+		<key>FCA5E581-17A6-43CA-917D-9FF1AEB673DD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FCA5E581-17A6-43CA-917D-9FF1AEB673DD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564530193.02235901</real>
+			<key>timeStoppedRecording</key>
+			<real>564530193.27650702</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>FCA5E581-17A6-43CA-917D-9FF1AEB673DD</string>
+		</dict>
+		<key>FF3749B4-CB14-47EE-B9A9-E7F555CF38B4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FF3749B4-CB14-47EE-B9A9-E7F555CF38B4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CollectionViewInTableView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CollectionViewInTableView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>timeStartedRecording</key>
+			<real>564524350.85768497</real>
+			<key>timeStoppedRecording</key>
+			<real>564524351.99061298</real>
+			<key>title</key>
+			<string>Build CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>FF3749B4-CB14-47EE-B9A9-E7F555CF38B4</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

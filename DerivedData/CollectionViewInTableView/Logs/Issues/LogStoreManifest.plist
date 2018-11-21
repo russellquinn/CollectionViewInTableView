@@ -5,7 +5,77 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>0DA6340F-3220-486C-9B4E-80C87ED514B1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>0DA6340F-3220-486C-9B4E-80C87ED514B1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>SnapKit-gaddtlymjexavvefiyvdyphxiaqu</string>
+			<key>timeStartedRecording</key>
+			<real>564531418.72289097</real>
+			<key>timeStoppedRecording</key>
+			<real>564531418.73233795</real>
+			<key>title</key>
+			<string>Build target SnapKit</string>
+			<key>uniqueIdentifier</key>
+			<string>0DA6340F-3220-486C-9B4E-80C87ED514B1</string>
+		</dict>
+		<key>5D88DCCE-4318-499B-A34F-45325A13860B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>5D88DCCE-4318-499B-A34F-45325A13860B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>Pods-CollectionViewInTableView-gaddtlymjexavvefiyvdyphxiaqu</string>
+			<key>timeStartedRecording</key>
+			<real>564531418.73426998</real>
+			<key>timeStoppedRecording</key>
+			<real>564531418.73532999</real>
+			<key>title</key>
+			<string>Build target Pods-CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>5D88DCCE-4318-499B-A34F-45325A13860B</string>
+		</dict>
+		<key>BCBA42FF-A039-4AB9-A5A1-96264C20A65E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>BCBA42FF-A039-4AB9-A5A1-96264C20A65E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>CollectionViewInTableView-anogjsknnmzoneeeydysqgruqwti</string>
+			<key>timeStartedRecording</key>
+			<real>564531418.73223603</real>
+			<key>timeStoppedRecording</key>
+			<real>564531419.47186506</real>
+			<key>title</key>
+			<string>Build target CollectionViewInTableView</string>
+			<key>uniqueIdentifier</key>
+			<string>BCBA42FF-A039-4AB9-A5A1-96264C20A65E</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>
